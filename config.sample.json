@@ -1,0 +1,17 @@
+{
+  "domain": "domain",
+  "tld": "tld",
+  "ttl": 60,
+  "domains": [
+    {
+      "name": "subdomain",
+      "ip": "10.0.0.2",
+      "type": "A"
+    },
+    {
+      "name": "subdomain2",
+      "dynamicExternal": true,
+      "type": "A"
+    }
+  ]
+}

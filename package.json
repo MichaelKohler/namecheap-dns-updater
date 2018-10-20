@@ -1,0 +1,23 @@
+{
+  "name": "namecheap-dns-updater",
+  "version": "1.0.0",
+  "description": "Updates a domain's DNS records according to config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MichaelKohler/namecheap-dns-updater.git"
+  },
+  "author": "Michael Kohler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelKohler/namecheap-dns-updater/issues"
+  },
+  "homepage": "https://github.com/MichaelKohler/namecheap-dns-updater#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "debug": "^4.1.0"
+  }
+}
