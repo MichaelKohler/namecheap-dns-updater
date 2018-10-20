@@ -2,6 +2,7 @@
   "domain": "domain",
   "tld": "tld",
   "ttl": 60,
+  "updateIntervalInMS": 900000,
   "domains": [
     {
       "name": "subdomain",
